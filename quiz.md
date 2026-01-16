@@ -1,4 +1,4 @@
-# Early Developmental Screening Quiz
+# Early Developmental Screening Quiz For Parents.
 
 This checklist is organized by age range and skill area to help identify early signs of language, motor, social, and learning differences.
 

@@ -1,0 +1,24 @@
+
+Parent Consent & Data Use Acknowledgement
+
+Thank you for visiting our screening project. We invite you to allow the secure use of your child's screening responses and activity data to help evaluate early learning and developmental patterns. Below is a brief summary of how we use data and your options.
+
+What we collect
+- Questionnaire and quiz responses
+- Task performance metrics (accuracy, time-on-task, error patterns)
+- Non-identifying behavioral metadata used for research and quality improvement
+
+How we use data (project abstract)
+This project develops an early screening system to identify potential learning differences (language, literacy, motor, and visual-spatial skills) by combining age-adjusted quizzes, behavioral metrics, and domain-based scoring. Collected data will be used to improve screening accuracy, train anonymized models, and generate parent-friendly and professional summary reports. Screening is not a clinical diagnosis; it is an evidence-informed tool to guide further assessment when indicated.
+
+Privacy and security
+- Data will be stored securely and access-limited to the project team.
+- Identifiers will be removed or pseudonymized for analysis and reporting.
+- We will never sell personal data.
+
+Your choices
+- Reply YES: I consent to the use of my child's data as described above.
+- Reply NO: I do not consent; no data from my child will be stored or used.
+
+By consenting you acknowledge that you have read this notice and understand the scope and limits of data use for this screening project.
+
